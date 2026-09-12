@@ -74,7 +74,7 @@
     "category": "DevOps & SRE",
     "memberCount": "68,000+ members",
     "description": "Real-time engineering chat covering Terraform, Ansible, Prometheus, Kubernetes, and production incident triage.",
-    "joinUrl": "https://discord.gg/devops",
+    "joinUrl": "https://discord.gg/devcord",
     "tags": [
       "devops",
       "sre",
@@ -91,7 +91,7 @@
     "category": "Container Orchestration",
     "memberCount": "52,000+ members",
     "description": "Dedicated server for cloud-native infrastructure engineers building, deploying, and scaling on Kubernetes.",
-    "joinUrl": "https://discord.gg/kubernetes",
+    "joinUrl": "https://discuss.kubernetes.io",
     "tags": [
       "kubernetes",
       "discord",
@@ -142,7 +142,7 @@
     "category": "Container Orchestration",
     "memberCount": "140,000+ contributors",
     "description": "Official GitHub discussions, SIG updates, and architecture debates for Kubernetes core and ecosystems.",
-    "joinUrl": "https://github.com/kubernetes/kubernetes/discussions",
+    "joinUrl": "https://discuss.kubernetes.io",
     "tags": [
       "kubernetes",
       "github",
@@ -244,7 +244,7 @@
     "category": "Software Engineering",
     "memberCount": "220,000+ members",
     "description": "A collaborative multi-language developer Discord covering architecture, algorithms, career advice, and live coding.",
-    "joinUrl": "https://discord.gg/theprogrammershangout",
+    "joinUrl": "https://discord.gg/programming",
     "tags": [
       "programming",
       "multi-language",
