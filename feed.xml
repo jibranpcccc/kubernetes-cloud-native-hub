@@ -4,10 +4,17 @@
     <title>Kubernetes &amp; Cloud Native Architect Hub</title>
     <link>https://kubernetes-cloud-native-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 22 Sep 2026 06:02:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:02:29 GMT</lastBuildDate>
     <atom:link href="https://kubernetes-cloud-native-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                            <item>
+                                                <item>
+      <title>📅 Today's Fresh Pick: TryHackMe Official Discord (Discord)</title>
+      <link>https://discord.gg/tryhackme</link>
+      <guid isPermaLink="false">https://kubernetes-cloud-native-hub.netlify.app/#kubernetes-cloud-native-hub-discord-20260923-1-2026-09-23</guid>
+      <pubDate>Wed, 23 Sep 2026 06:02:29 GMT</pubDate>
+      <description>Newly verified community added to Kubernetes &amp; Cloud Native Architect Hub: Beginner and intermediate hands-on cybersecurity learning platform with active study groups and walkthrough support.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hack The Box Official Discord (Discord)</title>
       <link>https://discord.gg/hackthebox</link>
       <guid isPermaLink="false">https://kubernetes-cloud-native-hub.netlify.app/#kubernetes-cloud-native-hub-discord-20260922-1-2026-09-22</guid>
