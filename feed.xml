@@ -4,10 +4,17 @@
     <title>Kubernetes &amp; Cloud Native Architect Hub</title>
     <link>https://kubernetes-cloud-native-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 06:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:16:40 GMT</lastBuildDate>
     <atom:link href="https://kubernetes-cloud-native-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                <item>
+                                                                    <item>
+      <title>📅 Today's Fresh Pick: OWASP CheatSheet Discussions (GitHub)</title>
+      <link>https://github.com/OWASP/CheatSheetSeries/discussions</link>
+      <guid isPermaLink="false">https://kubernetes-cloud-native-hub.netlify.app/#kubernetes-cloud-native-hub-github-20260930-1-2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 06:16:40 GMT</pubDate>
+      <description>Newly verified community added to Kubernetes &amp; Cloud Native Architect Hub: Official community contributions and reviews on OWASP application security best practices.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hack The Box Community Forum (Forum)</title>
       <link>https://forum.hackthebox.com</link>
       <guid isPermaLink="false">https://kubernetes-cloud-native-hub.netlify.app/#kubernetes-cloud-native-hub-forum-20260929-1-2026-09-29</guid>
