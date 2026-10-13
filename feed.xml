@@ -4,10 +4,17 @@
     <title>Kubernetes &amp; Cloud Native Architect Hub</title>
     <link>https://kubernetes-cloud-native-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:02:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:02:42 GMT</lastBuildDate>
     <atom:link href="https://kubernetes-cloud-native-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                        <item>
+                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://kubernetes-cloud-native-hub.netlify.app/#kubernetes-cloud-native-hub-forum-20261008-1-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 06:02:42 GMT</pubDate>
+      <description>Newly verified community added to Kubernetes &amp; Cloud Native Architect Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://kubernetes-cloud-native-hub.netlify.app/#kubernetes-cloud-native-hub-forum-20261008-1-2026-10-11</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://kubernetes-cloud-native-hub.netlify.app/#kubernetes-cloud-native-hub-github-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 14:03:42 GMT</pubDate>
       <description>Newly verified community added to Kubernetes &amp; Cloud Native Architect Hub: Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Tailwind CSS Discord (Discord)</title>
-      <link>https://discord.gg/tailwind</link>
-      <guid isPermaLink="false">https://kubernetes-cloud-native-hub.netlify.app/#kubernetes-cloud-native-hub-discord-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 08:31:11 GMT</pubDate>
-      <description>Newly verified community added to Kubernetes &amp; Cloud Native Architect Hub: Official community for Tailwind CSS utility-first design, component architectures, and responsive layout styling.</description>
     </item>
   </channel>
 </rss>
