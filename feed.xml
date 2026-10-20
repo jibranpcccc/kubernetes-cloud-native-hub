@@ -4,10 +4,17 @@
     <title>Kubernetes &amp; Cloud Native Architect Hub</title>
     <link>https://kubernetes-cloud-native-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 19 Oct 2026 06:02:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:03:35 GMT</lastBuildDate>
     <atom:link href="https://kubernetes-cloud-native-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                <item>
+                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://kubernetes-cloud-native-hub.netlify.app/#kubernetes-cloud-native-hub-forum-20261008-1-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 06:03:35 GMT</pubDate>
+      <description>Newly verified community added to Kubernetes &amp; Cloud Native Architect Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://kubernetes-cloud-native-hub.netlify.app/#kubernetes-cloud-native-hub-forum-20261008-1-2026-10-19</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://kubernetes-cloud-native-hub.netlify.app/#kubernetes-cloud-native-hub-reddit-20260920-1-2026-09-20</guid>
       <pubDate>Sun, 20 Sep 2026 06:03:28 GMT</pubDate>
       <description>Newly verified community added to Kubernetes &amp; Cloud Native Architect Hub: Ethical hacking guides, Kali Linux tools, network reconnaissance, and offensive security learning resources.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/netsec Network Security (Reddit)</title>
-      <link>https://www.reddit.com/r/netsec/</link>
-      <guid isPermaLink="false">https://kubernetes-cloud-native-hub.netlify.app/#kubernetes-cloud-native-hub-reddit-20260919-1-2026-09-19</guid>
-      <pubDate>Sat, 19 Sep 2026 06:02:27 GMT</pubDate>
-      <description>Newly verified community added to Kubernetes &amp; Cloud Native Architect Hub: Peer-reviewed technical infosec community sharing vulnerability advisories, exploit analysis, and security whitepapers.</description>
     </item>
   </channel>
 </rss>
