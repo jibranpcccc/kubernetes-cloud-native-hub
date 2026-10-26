@@ -4,10 +4,17 @@
     <title>Kubernetes &amp; Cloud Native Architect Hub</title>
     <link>https://kubernetes-cloud-native-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 06:02:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:46:53 GMT</lastBuildDate>
     <atom:link href="https://kubernetes-cloud-native-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                        <item>
+                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://kubernetes-cloud-native-hub.netlify.app/#kubernetes-cloud-native-hub-forum-20261008-1-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 06:46:53 GMT</pubDate>
+      <description>Newly verified community added to Kubernetes &amp; Cloud Native Architect Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://kubernetes-cloud-native-hub.netlify.app/#kubernetes-cloud-native-hub-forum-20261008-1-2026-10-25</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://kubernetes-cloud-native-hub.netlify.app/#kubernetes-cloud-native-hub-forum-20260927-1-2026-09-27</guid>
       <pubDate>Sun, 27 Sep 2026 06:02:35 GMT</pubDate>
       <description>Newly verified community added to Kubernetes &amp; Cloud Native Architect Hub: Elite technical security forum sharing binary exploitation writeups, malware analysis, and hardware hacking.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: InfoSec Vulnerability Feeds (Telegram)</title>
-      <link>https://t.me/infosec_alerts</link>
-      <guid isPermaLink="false">https://kubernetes-cloud-native-hub.netlify.app/#kubernetes-cloud-native-hub-telegram-20260925-1-2026-09-25</guid>
-      <pubDate>Fri, 25 Sep 2026 06:02:34 GMT</pubDate>
-      <description>Newly verified community added to Kubernetes &amp; Cloud Native Architect Hub: Aggregated daily feeds of security advisories, GitHub proof-of-concepts, and defensive countermeasures.</description>
     </item>
   </channel>
 </rss>
